@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ganpati-kolhal/)
 - [Twitter](https://twitter.com/yourprofile)
-- [Email](gnkolhal@gmail.com)
+- [Email](mailto:gnkolhal@gmail.com)
 
 <!--
 ### 📄 Blog Posts
@@ -46,12 +46,18 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
 - [Automating Infrastructure with Terraform and Ansible](https://yourblog.com/terraform-ansible)
 -->
 ### 📂 Projects
-- **Project 1**: [Project Title](https://github.com/yourusername/project1)
-  - Description: Brief description of what the project does.
-- **Project 2**: [Project Title](https://github.com/yourusername/project2)
-  - Description: Brief description of what the project does.
+- **Project 1**: [Shell Scripting](https://github.com/iam-ganpati/Shell_Scripting_)
+  - Description: Shell Scripting for Automation
+- **Project 2**: [AWS Infra with Terraform](https://github.com/iam-ganpati/Terraform/tree/main/6.%20Project)
+  - Description: Building the Infrastructure on AWS and deploying Application on Instance with terraform.
+- **Project 2**: [Two Tier App deployment on Docker](https://github.com/iam-ganpati/Project-Two_tier_flask_app_on_docker)
+  - Description: Deploying the application on Docker container with Jenkins Pipeline
+- **Project 2**: [Three Tier deployment On Docker](https://github.com/iam-ganpati/LoginWebApp-Three-tier-Project)
+  - Description: Deploying the three tier application on Docker container with Jenkins Pipeline.
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+-----
+
+Feel free to explore my repositories and get in touch if you have any questions and suggestion!
 
 
 <!--
