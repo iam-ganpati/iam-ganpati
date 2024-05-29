@@ -24,8 +24,7 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
   ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=white) ![WebLogic](https://img.shields.io/badge/-WebLogic-00758F?style=flat&logo=oracle&logoColor=white) ![HTTPD](https://img.shields.io/badge/-HTTPD-D22128?style=flat&logo=apache&logoColor=white) ![OHS](https://img.shields.io/badge/-OHS-F80000?style=flat&logo=oracle&logoColor=white)
 - **Service Management Platform**: 
   ![ServiceNow](https://img.shields.io/badge/-ServiceNow-000000?style=flat&logo=servicenow&logoColor=white)
-- **Continuous Integration and Continuous Deployment**: 
-  ![CICD](https://img.shields.io/badge/-CI/CD-00C853?style=flat&logo=ci-cd&logoColor=white)
+
 
 
 <!--
