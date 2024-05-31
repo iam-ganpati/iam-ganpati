@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
   - Description: Shell Scripting for Automation
 - **Project 2**: [AWS Infra with Terraform](https://github.com/iam-ganpati/Terraform/tree/main/6.%20Project)
   - Description: Building the Infrastructure on AWS and deploying Application on Instance with terraform.
-- **Project 2**: [Two Tier App deployment on Docker](https://github.com/iam-ganpati/Project-Two_tier_flask_app_on_docker)
+- **Project 3**: [Two Tier App deployment on Docker](https://github.com/iam-ganpati/Project-Two_tier_flask_app_on_docker)
   - Description: Deploying the application on Docker container with Jenkins Pipeline
-- **Project 2**: [Three Tier deployment On Docker](https://github.com/iam-ganpati/LoginWebApp-Three-tier-Project)
+- **Project 4**: [Three Tier deployment On Docker](https://github.com/iam-ganpati/LoginWebApp-Three-tier-Project)
   - Description: Deploying the three tier application on Docker container with Jenkins Pipeline.
 
 -----
