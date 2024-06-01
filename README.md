@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
 -->
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ganpati-kolhal/)
-- [Twitter](https://twitter.com/yourprofile)
+<!--- [Twitter](https://twitter.com/yourprofile)-->
 - [Email](mailto:gnkolhal@gmail.com)
 
 <!--
