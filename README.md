@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 - **Scripting**: 
   ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  ![YAML](https://img.shields.io/badge/-YAML-000000?style=flat&logo=yaml&logoColor=white)
+  ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=groovy&logoColor=white)
 - **Cloud Platforms**: 
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - **Containerization**: 
