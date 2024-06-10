@@ -40,7 +40,8 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
 - **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:gnkolhal@gmail.com)**
 <!--- [LinkedIn](https://www.linkedin.com/in/ganpati-kolhal/)-->
 <!--- [Twitter](https://twitter.com/yourprofile)-->
-<!--- [Email](mailto:gnkolhal@gmail.com)-->
+- [Email](mailto:gnkolhal@gmail.com)
+
 
 <!--
 ### 📄 Blog Posts
