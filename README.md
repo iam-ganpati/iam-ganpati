@@ -57,6 +57,10 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
   - Description: Deploying the three tier application on Docker container with Jenkins Pipeline.
 <!--- **Project 3**: [Two Tier App deployment on Docker](https://github.com/iam-ganpati/Project-Two_tier_flask_app_on_docker)
   - Description: Deploying the application on Docker container with Jenkins Pipeline-->
+
+### You can visit on the below repository and you will find the details explaination of the various devops technologies and it's projects.
+
+https://github.com/iam-ganpati/showcase/
 -----
 
 Feel free to explore my repositories and get in touch if you have any questions and suggestion!
