@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
 ### 🌐 Connect with Me
 - **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpati-kolhal/)**
 - **[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:gnkolhal@gmail.com)** : gnkolhal@gmail.com
-- **[![Phone](https://img.shields.io/badge/-Phone-4CAF50?logo=phone&logoColor=white)](tel:+1234567890)** : +1 (234) 567-890
+- **[![Phone](https://img.shields.io/badge/-Phone-4CAF50?logo=phone&logoColor=white)](tel:+1234567890)** : +91 7820841466
 <!--- [LinkedIn](https://www.linkedin.com/in/ganpati-kolhal/)-->
 <!--- [Twitter](https://twitter.com/yourprofile)-->
 
