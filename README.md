@@ -56,6 +56,8 @@ Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.5 + years of e
   - Description: Building the Infrastructure on AWS and deploying Application on Instance with terraform.
 - **Project 4**: [Three Tier deployment On Docker](https://github.com/iam-ganpati/LoginWebApp-Three-tier-Project)
   - Description: Deploying the three tier application on Docker container with Jenkins Pipeline.
+- **Project 4**: [Three Tier deployment On Kubernetes](https://github.com/iam-ganpati/ThreeTierAppOn-Kubernetes)
+  - Description: Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with Deployment on AWS EKS. 
 <!--- **Project 3**: [Two Tier App deployment on Docker](https://github.com/iam-ganpati/Project-Two_tier_flask_app_on_docker)
   - Description: Deploying the application on Docker container with Jenkins Pipeline-->
 
