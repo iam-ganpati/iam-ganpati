@@ -1,6 +1,6 @@
 ## Hi there, I'm Ganpati 👋
 
-Welcome to my GitHub profile! I'm a **Senior System Engineer** (2.8 + years of experience) in **Infosys (India)** having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices.
+Welcome to my GitHub profile! I'm a **Senior System Engineer** (3 years of experience) in **Infosys (India)** having DevOps and Cloud expertise with a strong background in automating and monitoring deployments in AWS with CICD and implementing DevOps best practices.
 
 ### <span style="font-size: 1.5em;">🛠️ My Technical Expertise</span>
 
